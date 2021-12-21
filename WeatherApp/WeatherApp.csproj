@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>favicon2.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Media\1.png" />
+    <None Remove="Media\11.png" />
+    <None Remove="Media\12.png" />
+    <None Remove="Media\13.png" />
+    <None Remove="Media\14.png" />
+    <None Remove="Media\15.png" />
+    <None Remove="Media\16.png" />
+    <None Remove="Media\17.png" />
+    <None Remove="Media\18.png" />
+    <None Remove="Media\19.png" />
+    <None Remove="Media\2.png" />
+    <None Remove="Media\20.png" />
+    <None Remove="Media\21.png" />
+    <None Remove="Media\22.png" />
+    <None Remove="Media\23.png" />
+    <None Remove="Media\24.png" />
+    <None Remove="Media\25.png" />
+    <None Remove="Media\26.png" />
+    <None Remove="Media\29.png" />
+    <None Remove="Media\3.png" />
+    <None Remove="Media\30.png" />
+    <None Remove="Media\31.png" />
+    <None Remove="Media\32.png" />
+    <None Remove="Media\33.png" />
+    <None Remove="Media\34.png" />
+    <None Remove="Media\35.png" />
+    <None Remove="Media\36.png" />
+    <None Remove="Media\37.png" />
+    <None Remove="Media\38.png" />
+    <None Remove="Media\39.png" />
+    <None Remove="Media\4.png" />
+    <None Remove="Media\40.png" />
+    <None Remove="Media\41.png" />
+    <None Remove="Media\42.png" />
+    <None Remove="Media\43.png" />
+    <None Remove="Media\44.png" />
+    <None Remove="Media\5.png" />
+    <None Remove="Media\6.png" />
+    <None Remove="Media\7.png" />
+    <None Remove="Media\8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Media\1.png" />
+    <Resource Include="Media\11.png" />
+    <Resource Include="Media\12.png" />
+    <Resource Include="Media\13.png" />
+    <Resource Include="Media\14.png" />
+    <Resource Include="Media\15.png" />
+    <Resource Include="Media\16.png" />
+    <Resource Include="Media\17.png" />
+    <Resource Include="Media\18.png" />
+    <Resource Include="Media\19.png" />
+    <Resource Include="Media\2.png" />
+    <Resource Include="Media\20.png" />
+    <Resource Include="Media\21.png" />
+    <Resource Include="Media\22.png" />
+    <Resource Include="Media\23.png" />
+    <Resource Include="Media\24.png" />
+    <Resource Include="Media\25.png" />
+    <Resource Include="Media\26.png" />
+    <Resource Include="Media\29.png" />
+    <Resource Include="Media\3.png" />
+    <Resource Include="Media\30.png" />
+    <Resource Include="Media\31.png" />
+    <Resource Include="Media\32.png" />
+    <Resource Include="Media\33.png" />
+    <Resource Include="Media\34.png" />
+    <Resource Include="Media\35.png" />
+    <Resource Include="Media\36.png" />
+    <Resource Include="Media\37.png" />
+    <Resource Include="Media\38.png" />
+    <Resource Include="Media\39.png" />
+    <Resource Include="Media\4.png" />
+    <Resource Include="Media\40.png" />
+    <Resource Include="Media\41.png" />
+    <Resource Include="Media\42.png" />
+    <Resource Include="Media\43.png" />
+    <Resource Include="Media\44.png" />
+    <Resource Include="Media\5.png" />
+    <Resource Include="Media\6.png" />
+    <Resource Include="Media\7.png" />
+    <Resource Include="Media\8.png" />
+  </ItemGroup>
+
+</Project>
